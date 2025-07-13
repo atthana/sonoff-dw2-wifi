@@ -179,6 +179,9 @@ Ref:
 Connecting to WebSocket: wss://as-pconnect6.coolkit.cc:8080/api/ws
 ```
 3. Fix problem in lib by replace `sonoff.py` from https://github.com/lucien2k/sonoff-python/issues/27#issuecomment-720433887
+4. But sometimes still having error > `WebSocket connection closed` > `Attempting to reconnect in 5 seconds...` นะ แล้วก้อ get status ไม่ได้
+
+![alt text](image-2.png)
 
 <br>
 
