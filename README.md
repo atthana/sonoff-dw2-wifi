@@ -197,3 +197,4 @@ Steps:
 ![alt text](image-1.png)
 
 6. `make run` > will show basic device status (one time check)
+7. Check log from `devices` variable in main.py in  `devices_resposne_example.log`

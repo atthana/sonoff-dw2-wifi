@@ -1,0 +1,85 @@
+{
+  "settings": {
+    "opsNotify": 0,
+    "opsHistory": 1,
+    "alarmNotify": 1,
+    "wxAlarmNotify": 0,
+    "wxOpsNotify": 0,
+    "wxDoorbellNotify": 0,
+    "appDoorbellNotify": 1,
+    "doorOnNotify": 1,
+    "doorOffNotify": 1,
+    "removeNotify": 1,
+    "armOnNotify": 1,
+    "armOffNotify": 1,
+    "lowBatteryNotify": 1
+  },
+  "family": {
+    "room": {},
+    "id": "5eeeef584bc32100078cac56",
+    "index": -2,
+    "members": [],
+    "guests": []
+  },
+  "extraNotify": {},
+  "_id": "6857b972c9bc2c4630bd1116",
+  "name": "DW2-Wi-Fi-L",
+  "group": "",
+  "type": "10",
+  "deviceid": "1002572bac",
+  "apikey": "4b646373-b747-468a-8d23-04385253d749",
+  "online": true,
+  "params": {
+    "bindInfos": {
+      "gaction": [
+        "4b646373-b747-468a-8d23-04385253d749_ewelinkGoogleHome"
+      ]
+    },
+    "version": 8,
+    "actionTime": 1752344170000,
+    "battery": 100,
+    "chipid": "2",
+    "defense": 1,
+    "fwVersion": "1000.2.1130",
+    "init": 1,
+    "mac": "d0270425172a",
+    "rssi": -63,
+    "switch": "off",
+    "type": 4
+  },
+  "extra": {
+    "extra": {
+      "model": "SN-OPL1000-DM-01",
+      "mac": "d0:27:04:25:17:2a",
+      "apmac": "d0:27:04:25:17:2b",
+      "uiid": 154,
+      "ui": "",
+      "modelInfo": "6119bdafb4e0f66ba14b1ec1",
+      "brandId": "5c4c1aee3a7d24c7100be054",
+      "itCredential": "PJaTg9NKPjqRZqhW",
+      "description": "",
+      "manufacturer": ""
+    },
+    "_id": "677bb0e30262990e8b6b5128"
+  },
+  "groups": [],
+  "devGroups": [],
+  "relational": [],
+  "createdAt": "2025-06-22T08:06:10.016Z",
+  "shareUsersInfo": [],
+  "__v": 0,
+  "address": "/184.22.161.207:56370",
+  "ip": "184.22.161.207",
+  "location": "",
+  "onlineTime": "2025-07-13T02:44:05.673Z",
+  "offlineTime": "2025-07-13T02:02:46.311Z",
+  "sharedTo": [],
+  "devicekey": "7f1e84b8-187b-4c7f-832d-c012fe670e20",
+  "deviceUrl": "",
+  "brandName": "SONOFF",
+  "showBrand": true,
+  "brandLogoUrl": "https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png",
+  "productModel": "DW2-Wi-Fi-L",
+  "devConfig": {},
+  "uiid": 154
+}
