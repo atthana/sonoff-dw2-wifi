@@ -30,7 +30,6 @@ result = [{'settings': {'opsNotify': 0, 'opsHistory': 1, 'alarmNotify': 1, 'wxAl
            'devicekey': 'f329e40d-e2a5-4f3f-99ed-f1a4ffcc4885', 'deviceUrl': '', 'brandName': 'coolkit',
            'showBrand': False, 'brandLogoUrl': '', 'productModel': 'CKW04-1C', 'devConfig': {}, 'uiid': 77},
 
-
           {
               'settings': {'opsNotify': 0, 'opsHistory': 1, 'alarmNotify': 1, 'wxAlarmNotify': 0, 'wxOpsNotify': 0,
                            'wxDoorbellNotify': 0, 'appDoorbellNotify': 1},
@@ -54,7 +53,6 @@ result = [{'settings': {'opsNotify': 0, 'opsHistory': 1, 'alarmNotify': 1, 'wxAl
               'brandName': 'SONOFF', 'showBrand': True,
               'brandLogoUrl': 'https://as-ota.coolkit.cc/logo/q62PevoglDNmwUJ9oPE7kRrpt1nL1CoA.png',
               'productModel': 'MINI', 'devConfig': {}, 'uiid': 1},
-              
 
           {
               'settings': {'opsNotify': 0, 'opsHistory': 1, 'alarmNotify': 1, 'wxAlarmNotify': 0, 'wxOpsNotify': 0,
