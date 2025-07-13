@@ -164,7 +164,9 @@ class SonoffMonitor:
             print("Error: WebSocket host not available")
             return False
     
-        # I have to use api of sonoff to get the websocket host, cannot create new websocket host because of the security policy of sonoff 
+        # I have to use api of sonoff to get the websocket host, cannot create new websocket host because of the security policy of sonoff
+        # ต้องการการยืนยันตัวตน: การเชื่อมต่อต้องมีการยืนยันตัวตนด้วย token และ API key ซึ่งเราได้จากการล็อกอินผ่าน API ของ Sonoff
+        # รูปแบบข้อความเฉพาะ: Sonoff ใช้รูปแบบข้อความ JSON เฉพาะในการสื่อสาร ซึ่งเราต้องปฏิบัติตาม
         ws_url = f"wss://{self.sonoff._wshost}:8080/api/ws"
         print(f"Connecting to WebSocket: {ws_url}")
         
